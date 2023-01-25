@@ -23,5 +23,6 @@ void PrintArray(int[] arr)
     foreach(int item in arr)
     {
         Console.WriteLine(item);
+        //Console.Write(item + ",");
     }
 }
